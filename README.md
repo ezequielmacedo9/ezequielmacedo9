@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="programação.jpg" />
+  <img src="projects.jpg" />
 </p>
 <h1 align="center">Hi 👋, I'm Ezequiel Macedo</h1>
 <h3 align="center">Backend Java Developer | Spring Boot</h3>
